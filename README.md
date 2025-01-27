@@ -14,7 +14,9 @@
 | Organized into a schema.  | No schema but has some structure.             | No schema.                 |
 | e.g., Tables              | e.g., XML                                     | e.g., Photos               |
 
-`print("DS Bootcamp")`
+<pre style="background-color: transparent; color: black;">
+print("DS Bootcamp")
+</pre>
 
 <a href="https://en.wikipedia.org/wiki/Data_science" style="font-weight: bold; color: blue;">Read more</a>
 
