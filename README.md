@@ -12,11 +12,12 @@
 | **Structured**           | **Semi-Structured**                            | **Unstructured**           |
 |---------------------------|-----------------------------------------------|-----------------------------|
 | Organized into a schema.  | No schema but has some structure.             | No schema.                 |
-| e.g., Tables              | e.g., XML                                     | e.g., Photos               |
+| e.g: Tables              | e.g: XML                                     | e.g: Photos               |
 
 <pre style="background-color: transparent; color: black;">
-<span style="color: purple;">print</span>("<span style="color: deepskyblue;">DS Bootcamp</span>")
+print("DS Bootcamp")
 </pre>
+
 
 
 <a href="https://en.wikipedia.org/wiki/Data_science" style="font-weight: bold; color: blue;">Read more</a>
