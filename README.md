@@ -15,8 +15,9 @@
 | e.g., Tables              | e.g., XML                                     | e.g., Photos               |
 
 <pre style="background-color: transparent; color: black;">
-print("DS Bootcamp")
+<span style="color: purple;">print</span>("<span style="color: deepskyblue;">DS Bootcamp</span>")
 </pre>
+
 
 <a href="https://en.wikipedia.org/wiki/Data_science" style="font-weight: bold; color: blue;">Read more</a>
 
